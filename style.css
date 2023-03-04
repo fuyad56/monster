@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: rgb(236, 165, 58);
+}
+.nav-text a {
+  text-align: justify;
+  font-weight: bolder;
+  color: black;
+}
+
