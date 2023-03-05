@@ -4,7 +4,7 @@
   scroll-behavior: smooth;
 }
 
-body{
+body {
   background-color: rgb(236, 165, 58);
 }
 .nav-text a {
@@ -12,4 +12,3 @@ body{
   font-weight: bolder;
   color: black;
 }
-
