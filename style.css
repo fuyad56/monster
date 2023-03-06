@@ -5,10 +5,31 @@
 }
 
 body {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
   background-color: rgb(236, 165, 58);
 }
 .nav-text a {
   text-align: justify;
   font-weight: bolder;
   color: black;
+}
+
+#meal-input {
+  height: 6vh;
+  border: none;
+  border-radius: 10px 0 0 10px;
+}
+
+#meal-submit {
+  width: 12vh;
+  height: 6vh;
+  border: none;
+  color: #ffffff;
+  background-color: #3b2d64;
+  border-radius: 0 10px 10px 0;
+}
+
+#meal-submit:hover {
+  color: #f8dd74;
 }
